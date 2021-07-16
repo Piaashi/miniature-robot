@@ -1,0 +1,51 @@
+.Doremon
+{
+    font-size:18px;
+    width:100%;
+    margin:0px;
+    box-shadow: 5px 5px 15px rgb(107, 5, 155);
+}
+
+.Nobita
+{
+    float:none;
+    background: white;
+    padding:10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 15px rgb(121, 0, 190);
+}
+
+.Shizuka
+{
+    font-size:15px;
+    
+}
+
+.result_para
+{
+    box-shadow: 5px 5px 5px rgb(121, 0, 190);
+    font-size: 20px;
+
+}
+
+.copyright_footer
+{
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 2;
+    color: rgb(82, 0, 107);
+    background-color:rgb(219, 109, 241)
+}
+
+canvas
+{
+ border: 5px solid rgb(64, 0, 94);
+ border-radius: 20px;
+ box-shadow: 5px 5px 5px rgb(121, 0, 190);;
+ margin-top:120px;
+ 
+
+}
